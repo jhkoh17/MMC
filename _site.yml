@@ -1,0 +1,10 @@
+name: "Project: Multimarket Contact"
+navbar:
+  title: "Project: Multimarket Contact"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Updates"
+      href: updates.html
