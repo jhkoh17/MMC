@@ -1,2 +1,0 @@
-# MMC
-Multimarket Contact
